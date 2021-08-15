@@ -1,4 +1,4 @@
-package com.icomerce.shopping.gateway;
+package com.icomercel.shopping.gateway;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
